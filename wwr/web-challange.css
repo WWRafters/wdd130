@@ -1,0 +1,56 @@
+
+header h1 {
+    text-align: center;
+    color: white;
+    width: 60%;
+    margin: 0 auto;
+    font-size: 2.5em;
+}
+img {
+    width: 18%;
+    display: block;
+    margin: 0 auto;
+}
+main p {
+    text-align: center;
+    color: white;
+    initial-letter-align: center;
+}
+main p.a {
+    width: 37%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+main p.b {
+    width: 30%;
+    margin: 0 auto;
+    font-size: 130%;
+    margin-top: 20px;
+}
+main ul {
+    display: block;
+    width: 35%;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+main p.d {
+    text-align: center;
+    font-size: 2em;
+    width: 23%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+footer p {
+    text-align: center;
+}
+footer p.c {
+    width: 27%;
+    margin: 0 auto;
+}
+body {
+    background-color: #fba4cc;
+}
+* {
+    border: 2px solid blue;
+}
