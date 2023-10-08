@@ -1,0 +1,69 @@
+body div#content {
+    max-width: 1600px;
+    margin: 0 auto;
+    text-align: center;
+}
+.home-title {
+background-color: white;
+}
+nav a {
+    color: #23588e;
+    text-decoration: none;
+}
+nav a:hover {
+    background-color: #23588e;
+    color: white;
+}
+#hero-msg h1, #hero-msg h4 {
+
+}
+.button-box {
+
+}
+main section {
+
+}
+#background {
+    height: 725px;
+}
+#background {
+    background-color: #23588e;
+}
+body {
+    background-color: white;
+}
+header {
+    background-color: #23588e;
+}
+header nav {
+    background-color: #c5d8e5;
+}
+.book:hover, .join:hover {
+    background-color: #23588e;
+    color: white;
+}
+.book, .join {
+    color: #23588e;
+}
+.rivers-card {
+    margin-top: 1%;
+}
+.msg {
+    background-color: white;
+}
+footer {
+    background-color: #23588e;
+    color: white;
+}
+footer p {
+    font-size: 1.2em;
+}
+#hero-img {
+    width: 100%;
+}
+.logo {
+    width: 80px;
+}
+.icon {
+    width: 80px;
+}
