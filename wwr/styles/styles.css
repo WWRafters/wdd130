@@ -21,10 +21,12 @@ nav a:hover {
 #hero-msg h1 {
     font-family: "Rock Salt", Caveat, Yellowtail;
     font-size: 2em;
+    color: #23588e;
 }
 
 #hero-msg h4 {
 font-family: Roboto, Lato, "Fira Sans Extra Condensed";
+color: #23588e;
 }
 main section {
 width: 100%;
@@ -52,16 +54,27 @@ header {
 header nav {
     background-color: #c5d8e5;
 }
+.button-box {
+display: block;
+margin: 25px 25px;
+}
+.book {
+    width: 0 auto;
+    color: black;
+}
 .book:hover, .join:hover {
     background-color: #c5d8e5;
+    color: black;
 }
 .book, .join {
-    color: black;
     padding: 15px 30px;
     margin-top: 50px;
     border-radius: 5px;
     height: 10px;
     display: inline;
+}
+.join {
+    color: #c5d8e5;
 }
 .rivers-card {
     margin-top: 1%;
@@ -70,8 +83,6 @@ header nav {
     margin: 200px 0;
     margin: 0 auto;
     margin-top: 10px;
-
-    
 }
 .card-img {
     border: 10px solid black;
@@ -88,10 +99,13 @@ main section img {
 }
 .msg p {
     padding-bottom: 10px;
-    font-size: 60%;
-    width: 100%;
+    font-size: 75%;
+    width: 95%;
     margin: 0 auto;
     margin-bottom: 13px;
+}
+.msg h2, p {
+    color: #c5d8e5;
 }
 footer {
     background-color: #23588e;
